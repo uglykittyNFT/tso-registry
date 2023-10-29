@@ -1,0 +1,23 @@
+{
+  "name": "Ugly Kitty",
+  "website": "https://uglykitty.xyz",
+  "twitter": "https://twitter.com/uglykittyNFT",
+  "description": "FTSO for the Songbird & Flare networks. One of many citizens helping connect everything.",
+  "logoURI": "ipfs://QmUSWbaRc9sf8jxQFU1mkoR1u4UJeLLz4yDDG4HYCpwpcM",
+  "members": 2,
+  "country": "United States",
+  "nodes": 3,
+  "categories": [
+      "Utilities"
+  ],
+  "ftso_info": {
+      "chainId": 14,
+      "address": "0x35149714467F2FE71b46eEb4d11689ED8728Bd25",
+      "epoch": 1
+  },
+  "stso_info": {
+      "chainId": 19,
+      "address": "0x35149714467F2FE71b46eEb4d11689ED8728Bd25",
+      "epoch": 131820
+  }
+}
